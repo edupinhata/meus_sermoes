@@ -1,2 +1,3 @@
-# meus_sermoes
-Repositório com os arquivos dos sermões que preparei durante a vida.
+# Meus Sermões
+
+Repositório com os sermões que preparo.
